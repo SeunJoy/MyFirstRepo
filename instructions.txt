@@ -1,0 +1,7 @@
+###Brief Introduction About Myself
+
+My name is Ayomide Adeyeye, and I am passionate about technology and data. 
+I am currently building my skills in data engineering, with a strong interest in solving real-world problems using data and software systems.
+
+I enjoy learning new tools, working on projects, and growing my knowledge in programming and system engineering. 
+My goal is to become a skilled data professional and contribute to impactful solutions in my field.
