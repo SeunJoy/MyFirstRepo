@@ -1,7 +1,6 @@
-###Brief Introduction About Myself
+Hi, I'm Olasupo Oluwaseun! 👋
 
-My name is Ayomide Adeyeye, and I am passionate about technology and data. 
-I am currently building my skills in data engineering, with a strong interest in solving real-world problems using data and software systems.
-
-I enjoy learning new tools, working on projects, and growing my knowledge in programming and system engineering. 
-My goal is to become a skilled data professional and contribute to impactful solutions in my field.
+I am a programmer passionate about the intersection of software systems and data science. 
+I love exploring data, writing clean code, and solving real-world problems. 
+I place a strong emphasis on modern development practices, including robust version control and collaborative workflows, to build reliable tools. 
+I'm always looking to take on new projects, master new tech stacks, and contribute to meaningful, data-driven solutions.
